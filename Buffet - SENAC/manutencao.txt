@@ -1,0 +1,8 @@
+adicionar triggers para envio de email para quantidades baixas - frequencia de envio
+enviar texto do email para o senac - PRODUÇÃO
+
+colocar gráfico de barras com eventos externos  - FAZENDO
+Fazer um log de hora de cada etapa e mostrar cada etapa do evento para o solicitante - FAZENDO
+
+
+MX?WCV4K008LQ5
